@@ -1,6 +1,6 @@
 # Car Game
 
-##Goal
+Goal
 Navigate Through Traffic and Avoid Barriers
 
 In this thrilling car game, your mission is to take on the role of a skilled driver, controlling a car on a busy road. Your objective is to navigate through the traffic-filled streets, showcasing your driving expertise and reaction speed. Using the left and right keyboard keys, you can steer the car to avoid collisions with other vehicles.
@@ -14,5 +14,4 @@ Remember, the key to victory lies in your ability to navigate through the traffi
 ##Screen Shots
 
 ![Play Screen](https://raw.githubusercontent.com/wajihaansari123/MyCarGAME/main/101.JPG)
-
 ![Crash Screen](https://raw.githubusercontent.com/wajihaansari123/MyCarGAME/main/102.JPG)
