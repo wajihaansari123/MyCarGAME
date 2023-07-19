@@ -11,7 +11,7 @@ Keep your eyes on the road, stay focused, and be ready to make split-second deci
 
 Remember, the key to victory lies in your ability to navigate through the traffic, display expert driving skills, and strategically avoid the barriers to become the ultimate car game champion! Good luck, and let the thrill of the road take you on an exhilarating ride!
 
-##Screen Shots
+###Screen Shots
 
 ![Start Screen](https://raw.githubusercontent.com/wajihaansari123/MyCarGAME/main/new1.PNG)
 ![Play Screen](https://raw.githubusercontent.com/wajihaansari123/MyCarGAME/main/new2.PNG)
